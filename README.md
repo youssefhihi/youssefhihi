@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![MasterHead](https://images.app.goo.gl/ahDHoUVEn2nW6TENA)](https://github.com/youssefhihi)
+<img align="right" alt="Coding" width="400" src="[https://images.app.goo.gl/ahDHoUVEn2nW6TENA]">
 - I'm Youssef, a passionate developer from  Morocco. Here are some things you should know about me:
 
 - 🚀 I'm currently studying in Youcode
