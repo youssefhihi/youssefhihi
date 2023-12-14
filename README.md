@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I'm Youssef, a passionate developer from  Morocco. Here are some things you should know about me:
+- I'm Youssef Hihi, a passionate developer from  Morocco. Here are some things you should know about me:
 
 - 🚀 I'm currently studying in Youcode
 - 🌱 I'm learning PHP JavaScript SQL 
