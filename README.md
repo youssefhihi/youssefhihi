@@ -6,12 +6,12 @@
 - 💬 Ask me about HTML CSS CSS-TAILWIND
 - 📫 How to reach me: youssefhihi18@gmail.com
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,sass,js,react,nextjs,vite,php,laravel,nodejs,postgresql,bootstrap,mysql,tailwind,vscode,wordpress,git,github,selenium,postman,figma,xd)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,php,bootstrap,mysql,tailwind,vscode,wordpress,git,github,postman,figma)](https://skills.thijs.gg)
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghollamsimo&layout=compact&title_color=fff&text_color=fff&bg_color=0D1117" height="160px" />
-<img src="https://github-readme-stats.vercel.app/api?username=ghollamsimo&title_color=fff&text_color=fff&icon_color=F7DF1E&bg_color=0D1117&show_icons=true" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefhihi&layout=compact&title_color=fff&text_color=fff&bg_color=0D1117" height="160px" />
+<img src="https://github-readme-stats.vercel.app/api?username=youssefhihi&title_color=fff&text_color=fff&icon_color=F7DF1E&bg_color=0D1117&show_icons=true" height="160px"/>
 </p>
 
 
