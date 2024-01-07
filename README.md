@@ -1,10 +1,10 @@
 ### Welcome there 👋
-- I'm Youssef Hihi, a passionate developer from  Morocco. Here are some things you should know about me :
+- I'm Youssef Hihi, a passionate developer from  Morocco. Here are some things you should know about me:
 
 - 🚀 I'm currently studying in Youcode .
 - 🌱 I'm learning PHP JavaScript SQL 
 - 💬 Ask me about HTML CSS CSS-TAILWIND
-- 📫 How to reach me: youssefhihi18@gmail.com
+- 📫 How to reach me:  youssefhihi18@gmail.com
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,php,bootstrap,mysql,tailwind,vscode,wordpress,git,github,postman,figma)](https://skills.thijs.gg)
 
