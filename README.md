@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=youssefhihi.youssefhihi&left_color=green&right_color=red)
+[![Visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=https://github.com/youssefhihi/youssefhihi&style=for-the-badge&label=Visitors)](https://github.com/youssefhihi/youssefhihi)
 
 ### Welcome there 👋
 - I'm Youssef Hihi, a passionate developer from  Morocco. Here are some things you should know about me:
