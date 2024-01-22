@@ -1,4 +1,4 @@
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=youssefhihi)
+
 
 ### Welcome there 👋
 - I'm Youssef Hihi, a passionate developer from  Morocco. Here are some things you should know about me:
@@ -8,7 +8,7 @@
 - 💬 Ask me about HTML CSS CSS-TAILWIND
 - 📫 How to reach me:  youssefhihi18@gmail.com
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,php,bootstrap,mysql,tailwind,vscode,wordpress,git,github,postman,figma)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,php,bootstrap,mysql,tailwind,vscode,git,github,postman,figma)](https://skills.thijs.gg)
 
 
 <p align="center">
@@ -24,3 +24,4 @@
 ## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/youssef-hihi-566b5b2a4)
+- [gmail](youssefhihi18@gmail.com)
