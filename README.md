@@ -1,4 +1,6 @@
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 ### Welcome there 👋
 - I'm Youssef Hihi, a passionate developer from  Morocco. Here are some things you should know about me:
