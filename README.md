@@ -8,7 +8,7 @@
   Welcome there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-- I'm Youssef Hihi, a passionate developer from  Morocco. Here are some things you should know about me:
+- I'm Youssef Hihi, a passionate developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from  Morocco. Here are some things you should know about me:
 
 - 🚀 I'm currently studying in Youcode .
 - 🌱 I'm learning PHP JavaScript SQL 
@@ -31,10 +31,7 @@
 ## Let's Connect
 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/youssef-hihi-566b5b2a4/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=youtube&logoColor=white" alt="instagram Badge"/>
   </a>
 </div>
