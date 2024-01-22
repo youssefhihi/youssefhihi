@@ -22,9 +22,8 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=youssefhihi&theme=dark&background=000000)](https://git.io/streak-stats)
-
 <p align="center">
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=youssefhihi&theme=dark&background=000000)](https://git.io/streak-stats)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefhihi&layout=compact&title_color=fff&text_color=fff&bg_color=0D1117" height="160px" />
 <img src="https://github-readme-stats.vercel.app/api?username=youssefhihi&title_color=fff&text_color=fff&icon_color=F7DF1E&bg_color=0D1117&show_icons=true" height="160px"/>
 </p>
