@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![image title](https://rushter.com/counter.svg)
 
 
 ### Welcome there 👋
