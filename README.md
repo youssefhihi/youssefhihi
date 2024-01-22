@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="[https://giphy.com/gifs/fomoduck-duck-fomo-forever-squad-HzPtbOKyBoBFsK4hyc]" width="100"/>
+  <img src="https://giphy.com/gifs/fomoduck-duck-fomo-forever-squad-HzPtbOKyBoBFsK4hyc" width="100"/>
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=youssefhihi&style=flat-square&color=blue" alt=""/>
@@ -22,7 +23,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=youssefhihi&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
+### :hammer_and_wrench: Languages and Tools
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefhihi&layout=compact&title_color=fff&text_color=fff&bg_color=0D1117" height="160px" />
 <img src="https://github-readme-stats.vercel.app/api?username=youssefhihi&title_color=fff&text_color=fff&icon_color=F7DF1E&bg_color=0D1117&show_icons=true" height="160px"/>
