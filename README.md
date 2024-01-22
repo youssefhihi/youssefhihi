@@ -1,5 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=youssefhihi/youssefhihi&left_color=green&right_color=red)
-
+![image title](https://rushter.com/counter.svg)
 ### Welcome there 👋
 - I'm Youssef Hihi, a passionate developer from  Morocco. Here are some things you should know about me:
 
