@@ -20,7 +20,7 @@
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,php,bootstrap,mysql,tailwind,vscode,git,github,postman,figma)](https://skills.thijs.gg)
 
 
-### :fire: My Stats :
+### :fire: My Stats            
 
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=youssefhihi&theme=dark&background=000000" alt="GitHub Streak" />
