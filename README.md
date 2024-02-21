@@ -4,7 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=youssefhihi&style=flat-square&color=blue"  alt="hello"/>  
 <h1>
   Welcome there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>  
 </h1>
 <div>- I'm Youssef Hihi, a passionate developer<img  src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">from  Morocco. Here are some things you should know about me: </div>
 
