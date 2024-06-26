@@ -15,7 +15,7 @@
   
 ### :hammer_and_wrench: Languages and Tools
 
-[My Skills](https://skills.thijs.gg/icons?i=html,css,js,php,bootstrap,mysql,tailwind,vscode,git,github,postman,figma)(https://skills.thijs.gg)
+[My Skills](https://skills.thijs.gg/icons?i=html,css,js,php,bootstrap,mysql,tailwind,vscode,git,github,postman,figma)
 
 
 ### :fire: My Stats            
