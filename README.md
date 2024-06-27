@@ -10,7 +10,7 @@
 
 - 🚀 I'm currently studying in Youcode .
 - 🌱 I'm learning PHP JavaScript SQL  
-- 💬 Ask me about HTML CSS CSS-TAILWIND
+- 💬 Ask me about Anything !
 - 📫 How to reach me:  youssefhihi18@gmail.com
   
 ### :hammer_and_wrench: Languages and Tools
