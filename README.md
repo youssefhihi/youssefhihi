@@ -20,7 +20,7 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=white)&nbsp;
 
 
 ### Frontend
@@ -40,7 +40,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 
 ### Tools
-![MERN](https://img.shields.io/badge/-MERNStack-05122A?style=flat&logo=mern)&nbsp;
+![MERN](https://img.shields.io/badge/-MERN-05122A?style=flat&logo=react&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
