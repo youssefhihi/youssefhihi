@@ -64,4 +64,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/youssef-hihi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef-hihi" height="30" width="40" /></a>
 </p>
+<p align="left">
+<a href="https://discord.com/channels/@youssefhihi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="youssef-hihi" height="30" width="40" /></a>
+</p>
 </div>
