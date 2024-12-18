@@ -46,7 +46,7 @@
 ### :fire: My Stats            
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=youssefhihi&theme=dark&background=000000" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssefhihi&theme=dark&background=000000" alt="GitHub Streak" />
 </div>
 
 <p align="center">
